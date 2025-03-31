@@ -7,3 +7,5 @@ python -m spacy download en_core_web_sm
 pip install pubchempy
 *fuzzy matching for ingredient name standardization*
 pip install rapidfuzz
+
+pip install duckduckgo-search --upgrade
