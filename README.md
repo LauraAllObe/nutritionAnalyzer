@@ -9,3 +9,9 @@ pip install pubchempy
 pip install rapidfuzz
 
 pip install duckduckgo-search --upgrade
+
+pip install openai
+
+pip install tiktoken
+
+
