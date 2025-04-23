@@ -14,4 +14,6 @@ pip install openai
 
 pip install tiktoken
 
+pip install google-api-python-client
+
 
