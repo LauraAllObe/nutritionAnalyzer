@@ -16,4 +16,6 @@ pip install tiktoken
 
 pip install google-api-python-client
 
+pip install scispacy
+
 
