@@ -8,14 +8,10 @@ pip install pubchempy
 *fuzzy matching for ingredient name standardization*
 pip install rapidfuzz
 
-pip install duckduckgo-search --upgrade
-
-pip install openai
-
 pip install tiktoken
 
 pip install google-api-python-client
 
 pip install scispacy
 
-
+pip install rapidfuzz
