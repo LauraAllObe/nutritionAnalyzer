@@ -23,6 +23,7 @@ File Structure:
     │ ├── .gitignore
     │ ├── environment.yml
     │ ├── nutritionAnalyzer.ipynb
+    │ ├── projectReport-may5th2025.pdf
     │ └── README.md
     └── .env
 
